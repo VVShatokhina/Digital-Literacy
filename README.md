@@ -1,6 +1,5 @@
 # **Студенка БИЯ171(1)**
-![Картинка][image1]
-[image1]: //prikolnye-kartinki.ru/img/picture/Jul/30/c43a124acfc5e43690afc974da86b654/mini_1.jpg
+![](http://prikolnye-kartinki.ru/img/picture/Jul/30/c43a124acfc5e43690afc974da86b654/mini_1.jpg)
 ***
 * **ФИО:** *Шатохина Влада Владимировна* 
 * **Дата рождения:** *24.05.1999г*
